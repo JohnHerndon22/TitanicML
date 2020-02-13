@@ -1,0 +1,23 @@
+processing records from: NFL Schedule Master - 171819 no zeroes.csv
+Scenario is: ESPN > 65%, ESPN Home > 60, Cat 1 > ESPN%
+W  48 - L  30  Pct:  0.615  total pts: 429.0
+processing records from: NFL Schedule Master - 171819 no zeroes.csv
+Scenario is: ESPN > 65%, ESPN Home > 60, Key Home Teams, Cat 1 > ESPN%
+W  49 - L  29  Pct:  0.628  total pts: 425.0
+processing records from: NFL Schedule Master - 171819 no zeroes.csv
+Scenario is: ESPN > 65%, ESPN Home > 60, pop pick > 85%, Key Home Teams, Cat 1 > ESPN%
+W  50 - L  28  Pct:  0.641  total pts: 436.0
+processing records from: NFL Schedule Master - 171819 no zeroes.csv
+Scenario is: ESPN > 65%, ESPN Home > 60, pop pick > 85%, Cat 1 > ESPN%
+W  49 - L  29  Pct:  0.628  total pts: 436.0
+processing records from: NFL Schedule Master - 171819 no zeroes.csv
+Scenario is: ESPN > 65%, ESPN Home > 60, Thursday Home Team, Key Home Teams, pop pick > 85%, Cat 1 > ESPN%
+W  50 - L  28  Pct:  0.641  total pts: 429.0
+processing records from: NFL Schedule Master - 171819 no zeroes.csv
+Scenario is: ESPN > 65%, Key Home Teams, ESPN Home > 60, Cat 1 > ESPN%
+W  49 - L  29  Pct:  0.628  total pts: 428.0
+processing records from: NFL Schedule Master - 171819 no zeroes.csv
+Scenario is: ESPN > 65%, ESPN Home > 60, pop pick > 85%, Cat 1 > ESPN%
+W  49 - L  29  Pct:  0.628  total pts: 436.0
+scenarios processed = 8
+total records in file: 78
