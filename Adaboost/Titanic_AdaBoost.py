@@ -1,5 +1,5 @@
 #Titanic_AdaBoost.py
-# Make Titanic Predictions using the AdaBoost prediction algortyhim from SKLearn....
+# Make Titanic Predictions using the AdaBoost prediction algortyhim from SKLearn.....
 
 from sklearn.ensemble import AdaBoostClassifier
 from sklearn.tree import DecisionTreeClassifier
